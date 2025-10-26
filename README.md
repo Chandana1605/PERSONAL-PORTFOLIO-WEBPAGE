@@ -60,3 +60,11 @@ The portfolio is scalable and can be extended later with JavaScript interactivit
 This portfolio will continue evolving as I grow as a developer, incorporating new skills, projects, and experiences along the way.
 
 *OUTPUT*:
+
+<img width="1799" height="792" alt="Image" src="https://github.com/user-attachments/assets/a7c60a42-53af-4cd9-b6d3-748e8f0e3503" />
+
+<img width="1849" height="775" alt="Image" src="https://github.com/user-attachments/assets/a7277590-ba51-469a-8520-72ec3249d44a" />
+
+<img width="1816" height="784" alt="Image" src="https://github.com/user-attachments/assets/7fda254d-f9c4-473f-b3ff-e09bdb07cc7b" />
+
+<img width="1817" height="790" alt="Image" src="https://github.com/user-attachments/assets/d3724cda-16e8-41ad-b9dc-b25c159b6c43" />
