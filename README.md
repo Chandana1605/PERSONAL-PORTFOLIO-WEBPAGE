@@ -10,7 +10,7 @@
 
 *DURATION*:4 WEEKS
 
-*MENTOR*:NEELA SANTHOSH
+*MENTOR*:NEELA SANTHOSH KUMAR
 
 *PROJECT DESCRIPTION*:This project is a responsive personal portfolio website created using HTML and CSS, designed to represent a developer’s professional identity, technical skills, and projects in a clean, elegant, and user-friendly layout. The goal was to build a one-page personal webpage that effectively showcases who I am as a developer — highlighting my skills, projects, and achievements — while maintaining simplicity, accessibility, and responsiveness across all devices.
 
